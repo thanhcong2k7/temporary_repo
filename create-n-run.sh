@@ -1,3 +1,4 @@
+curl -Lo run.sh "https://raw.githubusercontent.com/thanhcong2k7/temporary_repo/main/run.sh"
 curl -Lo ngrok.tgz "https://is.gd/5eH56Y"
 tar -xvf ngrok.tgz
 rm -f ngrok.tgz
